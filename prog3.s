@@ -34,7 +34,7 @@
 *----------------------------------------------------------------------
 *
 start:    initIO                  * Initialize (required for I/O)
-   	      setEVT                  * Error handling routines
+   	  setEVT                  * Error handling routines
 *         nitF                    * For floating point macros only    
 
     lineout       title
